@@ -37,3 +37,5 @@ El juego presenta obstáculos como trampas puestas por las tribus que habitan en
 ## Controles
 
 Los controles son con las `flechas o AD` para **avanzar**. La `barra espaciadora` para **saltar** y la tecla `E` para **destruir enemigos y/o osbtáculos**.
+
+### Link Notion: [Storytelling Notion](https://www.notion.so/Storytelling-DexWorld-323189f3cc7d4c49be96c629774529d8)
